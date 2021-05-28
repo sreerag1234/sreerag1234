@@ -10,4 +10,4 @@
 <li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling, Barca fan:heart_eyes: </li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreerag1234">
+<img src="https://github-readme-stats.vercel.app/api?username=sreerag1234&show_icons=true&theme=tokyonight">
