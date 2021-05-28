@@ -9,5 +9,7 @@
 <li> 📫 Just drop a mail at <a href="mailto:sreerag22072002@gmail.com">sreerag22072002@gmail.com </a> to reach me </li>
 <li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling, Barca fan:heart_eyes: </li>
 </ul>
-
+<h1> connect with me </h1>
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_sreerag22_/" />[instagram]
 <img src="https://github-readme-stats.vercel.app/api?username=sreerag1234&show_icons=true&theme=tokyonight">
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
