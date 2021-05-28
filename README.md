@@ -8,3 +8,6 @@
 <li> :man_technologist: To see all my projects, go to <a href="https://github.com/sreerag1234"> https://github.com/sreerag1234 </a></li>
 <li> 📫 Just drop a mail at <a href="mailto:sreerag22072002@gmail.com">sreerag22072002@gmail.com </a> to reach me </li>
 <li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling, Barca fan:heart_eyes: </li>
+</ul>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sreerag1234">
