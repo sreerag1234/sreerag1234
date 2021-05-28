@@ -10,7 +10,7 @@
 <li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling, Barca fan:heart_eyes: </li>
 </ul>
 <h1> connect with me </h1>
-<a href="https://www.instagram.com/_sreerag22_/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ></a>
-<a href="https://www.facebook.com/profile.php?id=100056085101105"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" ></a><br><br>
+<a href="https://www.instagram.com/_sreerag22_/" target="_blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ></a>
+<a href="https://www.facebook.com/profile.php?id=100056085101105" target="_blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" ></a><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sreerag1234&show_icons=true&theme=tokyonight">
 
