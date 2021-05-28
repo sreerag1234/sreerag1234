@@ -1,5 +1,5 @@
-<h1> Hi 👋, This is Sreerag S </h1>
-A enthustiastic beginner in web development </h1>
+<h1 align="center"> Hi 👋, This is Sreerag S </h1>
+<p align="center"> A enthustiastic beginner in web development </p>
 
 <!--
 **sreerag1234/sreerag1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
