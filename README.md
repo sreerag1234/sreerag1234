@@ -7,7 +7,7 @@
 <li> 👯 I’m currently working with IIT Madras SOC team</li>
 <li> :man_technologist: To see all my projects, go to <a href="https://github.com/sreerag1234"> https://github.com/sreerag1234 </a></li>
 <li> 📫 Just drop a mail at <a href="mailto:sreerag22072002@gmail.com">sreerag22072002@gmail.com </a> to reach me </li>
-<li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling, Barca fan:heart_eyes: </li>
+<li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling </li>
 </ul>
 
 <h1>Connect with me </h1>
