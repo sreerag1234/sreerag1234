@@ -17,6 +17,9 @@
 <h1> Languages and Tools: </h1>
 <a href="https://www.w3.org/html/"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <br>
