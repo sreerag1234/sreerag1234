@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, This is Sreerag S </h1>
-<p align="center"> A enthustiastic beginner in web development </p>
+<p align="center"> A regular learner </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreerag1234&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <ul>
