@@ -1,13 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Sreerag </h1>
-<p align="center"> A regular learner </p>
+<p align="center"> A passionate frontend developer</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreerag1234&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <ul>
-<li> 🌱 I’m currently learning full stack web development.Learnt HTML and CSS and currently on the process of learning javascript</li>
-<li> 👯 I’m currently working with IIT Madras SOC team</li>
+<li> 🌱 I’m currently learning ML</li>
 <li> :man_technologist: To see all my projects, go to <a href="https://github.com/sreerag1234"> https://github.com/sreerag1234 </a></li>
-<li> 📫 Just drop a mail at <a href="mailto:sreerag22072002@gmail.com">sreerag22072002@gmail.com </a> to reach me </li>
-<li> ⚡ Fun facts: Love to talk personally (not a fan of messages and video calls),knows 2D sketching and 3D modelling </li>
+<li> 📫 Just drop a mail at <a href="mailto:sreerag22072002@gmail.com">sreerag80722@gmail.com </a> to reach me </li>
 </ul>
 
 <h1>Connect with me </h1>
@@ -22,6 +20,9 @@
             alt="bootstrap" width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+<a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
 <br>
 <h1>Stats:</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=sreerag1234&show_icons=true&theme=tokyonight">
